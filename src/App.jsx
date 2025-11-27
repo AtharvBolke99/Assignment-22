@@ -1,11 +1,11 @@
 import "./App.css";
-import Cardlist from "./components/Cardlist";
+import CardList from "./components/CardList";
 
 function App() {
   return (
     <div>
       <h1 className="header">Superman</h1>
-      <Cardlist/>
+      <CardList/>
     </div>
   );
 }
